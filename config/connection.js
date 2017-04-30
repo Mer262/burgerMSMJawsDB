@@ -14,7 +14,8 @@ var connection = mysql.createConnection({
     username: "tg3csbsz2bgcwb8u",
     password: "rryb14zkn4gq9blo",
     database: "o9b1heo501uf8w8d",
-    port: 3306
+    port: 3306,
+    use_env_variable: "JAWSDB_URL"
 });
 
 

@@ -9,13 +9,13 @@ var mysql = require("mysql");
 //     database: "burgers_db"
 // });
 
-// var connection = mysql.createConnection({
-//     host: "us-cdbr-iron-east-03.cleardb.net",
-//     username: "b9ba06add5a856",
-//     password: "6134dc83",
-//     database: "heroku_c670864fcbd3802",
-//     port: 3306
-// });
+var connection = mysql.createConnection({
+    host: "otmaa16c1i9nwrek.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    username: "tg3csbsz2bgcwb8u",
+    password: "ryb14zkn4gq9blo",
+    database: "o9b1heo501uf8w8d",
+    port: 3306
+});
 
 
 connection.connect();

@@ -1,0 +1,25 @@
+// {
+//     "development": {
+//         "username": "root",
+//         "password": "root",
+//         "database": "burgers_db",
+//         "host": "127.0.0.1",
+//         "dialect": "mysql"
+//     },
+//     "test": {
+//         "username": "root",
+//         "password": "root",
+//         "database": "burgers_db",
+//         "host": "127.0.0.1",
+//         "dialect": "mysql"
+//     },
+//     "production": {
+//         "username": "b9ba06add5a856",
+//         "password": "6134dc83",
+//         "database": "heroku_c670864fcbd3802",
+//         "host": "us-cdbr-iron-east-03.cleardb.net",
+//         "port": "3306",
+//         "dialect": "mysql",
+//         "use_env_variable": "CLEARDB_DATABASE_URL"
+//     }
+// }
